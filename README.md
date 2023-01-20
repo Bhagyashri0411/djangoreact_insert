@@ -5,4 +5,5 @@ install myenv virtual environment in your current folder
 then myenv\Scripts\activate
 
 in react folder 
-1) cd 
+1) npm install
+2) npm start
